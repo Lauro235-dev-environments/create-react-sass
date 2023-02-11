@@ -1,46 +1,14 @@
 # Read Me
 
-- Projection
-- Task List
-- Getting Started With Create React App
-- Available Scripts
-  - Run the app
-  - Testing
-- Sass
-- Linting
-
-## Projection
-
-Projection
-
-- Setup:
-  - complexity => high - 5 hours
-- Main Section:
-  - complexity => low - 1 hour
-- Footer:
-  - complexity => very low - 10 minutes
-- Refactoring
-  - complexity => medium - 1 hour  
-- Error Handling
-  - complexity => medium - 1 hour
-- styling
-  - complexity => medium - 1 hour
-
-## Task List
-
-- Setup
-  - [x] Spin up a TypeScript app with create-react-app
-  - [x] Add basic eslint functionality
-  - [x] Add airbnb and prettier plugins
-  - [x] Add Vitest and check with sample test
-  - [x] Add dart-sass and check it works 🥵
-
-
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+`npm i` to install the required modules
+
 ## Available Scripts
+
+After installing the required modules...
 
 In the project directory, you can run:
 
@@ -69,4 +37,3 @@ I followed the documentation above. An error in my '.vscode global' settings cau
 
 I chose to bolster eslint with the airbnb plugin, this touches the main code quality.
 For the aesthetic code linting I've leveraged prettier.
-
